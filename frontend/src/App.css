@@ -1,0 +1,14 @@
+#logo{
+    height: 2.5cm;
+    width: 3.5cm;
+}
+
+#margin{
+    margin-top: 0.5cm;
+    margin-left: 11cm;
+}
+#margin span {
+    margin-top: 0.5cm;
+    margin-left: 6cm;
+    font-size: 19px;
+}
